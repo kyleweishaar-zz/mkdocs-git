@@ -1,1 +1,1 @@
-A general help site for learning git with git bash and git extensions.
+I wrote this site for a group of technical writers who were transitioning from TFS to git. We just needed a simple space that was easy to naviagte and easy to edit. I transfered the repo to a colleague before I left, but this is a copy of the original site for my own records.
